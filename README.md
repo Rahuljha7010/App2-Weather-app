@@ -2,7 +2,7 @@
 
 <img width="965" alt="image" src="https://github.com/user-attachments/assets/65e32949-4001-4b4c-b2d6-a34db2ac665e">
 
-Hosted link:
+Hosted link: https://rahuljha369.github.io/App2-Weather-app/
 
 
 
@@ -40,7 +40,7 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
 
 1. **Clone the Repository**
    ```bash
-   git clone ""
+   git clone "https://rahuljha369.github.io/App2-Weather-app/"
    cd Application2-Weather-appl
    ```
 
