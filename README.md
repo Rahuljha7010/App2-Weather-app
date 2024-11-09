@@ -2,7 +2,7 @@
 
 <img width="965" alt="image" src="https://github.com/user-attachments/assets/65e32949-4001-4b4c-b2d6-a34db2ac665e">
 
-Hosted link: https://rahuljha369.github.io/App2-Weather-app/
+Hosted link: https://rahuljha7010.github.io/App2-Weather-app/
 
 
 
